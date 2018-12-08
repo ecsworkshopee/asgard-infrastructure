@@ -1,4 +1,6 @@
 locals {
+
+  unique_id = "rajan"
   
 }
 
